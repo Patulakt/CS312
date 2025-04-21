@@ -1,0 +1,18 @@
+[
+    {
+        "id": "copper_sword",
+        "name": "Copper Sword",
+        "stats": {
+            "meleeDamage": 18,
+            "attackSpeed": 4.0
+        }
+    },
+    {
+        "id": "tin_sword",
+        "name": "Tin Sword",
+        "stats": {
+            "meleeDamage": 25,
+            "attackSpeed": 4.1
+        }
+    }
+]

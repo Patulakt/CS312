@@ -1,0 +1,10 @@
+[
+    {
+      "id": "larva_meat_ring",
+      "name": "Larva Meat Ring",
+      "slot": "ring",
+      "stats": {
+        "health": 15
+      }
+    }
+  ]

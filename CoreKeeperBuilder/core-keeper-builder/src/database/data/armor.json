@@ -1,0 +1,18 @@
+[
+    {
+      "id": "wood_helmet",
+      "name": "Wood Helmet",
+      "slot": "helmet",
+      "stats": {
+        "armor": 5
+      }
+    },
+    {
+      "id": "wood_chestplate",
+      "name": "Wood Chestplate",
+      "slot": "chest",
+      "stats": {
+        "armor": 7
+      }
+    }
+  ]
